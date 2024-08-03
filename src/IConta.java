@@ -1,7 +1,7 @@
 
 public interface IConta {
 	
-	void sacar(double valor);
+	double sacar(double valor);
 	
 	void depositar(double valor);
 	
